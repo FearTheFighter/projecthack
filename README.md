@@ -1,2 +1,2 @@
 # projecthack
-new project
+new project of 24 hackathon.
